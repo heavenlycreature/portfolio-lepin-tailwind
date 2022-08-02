@@ -66,11 +66,6 @@ nav ul li a:hover{
         transform: translateY(0);
     }
 }
-/* dark mode */
-.dark{
-    background-color: #0a0a23 !important;
-    color: #dfdfe2 !important;
-}
 /* Responsive breakPoint */
 
 /* Tab */
